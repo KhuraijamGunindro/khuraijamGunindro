@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fruitfreak3@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love lawn tennis**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
