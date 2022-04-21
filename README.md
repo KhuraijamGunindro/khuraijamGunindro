@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhuraijamGunindro
 - 👀 I’m interested in cross platform software development, dotnet and machine learning.
-- 🌱 I’m currently learning Csharp, Javascript, Java and MsSql.
+- 🌱 I’m currently learning Csharp, Javascript, Java, python and MsSql.
 - 💞️ I’m looking to collaborate on dotnet projects.
 - 📫 You can reach me via twitter, link is on the profile.
 
