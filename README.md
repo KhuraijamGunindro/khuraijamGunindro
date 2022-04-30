@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Dotnet Csharp and Python.**
 
-- 📫 How to reach me **fruitfreak3@gmail.com**
+- 📫 How to reach me **fruitfreak3@gmail.com** and join my discord server: https://discord.gg/jMBjUF8p
 
 - ⚡ Fun fact **I love lawn tennis**
 
